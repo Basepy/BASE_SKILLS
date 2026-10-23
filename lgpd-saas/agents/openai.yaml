@@ -1,0 +1,4 @@
+interface:
+  display_name: "LGPD SaaS"
+  short_description: "LGPD, segurança e privacidade para SaaS"
+  default_prompt: "Use $lgpd-saas para revisar meu projeto SaaS com foco em LGPD, segurança, retenção, consentimento e auditoria."
